@@ -1,6 +1,6 @@
 {
-  "name": "FirefoxOS",
-  "description": "My elevator pitch goes here",
+  "name": "FirefoxOS_Platformer",
+  "description": "platformer_game_beta",
   "orientation": "landscape-primary",
   "launch_path": "/index.html",
   "icons": {
@@ -9,7 +9,7 @@
   },
   "developer": {
     "name": "Daniel Balla",
-    "url": "http://your-homepage-here.org"
+    "url": "https://github.com/BADWAAT/platformer"
   },
   "default_locale": "en",
   "chrome": { "navigation": false },
