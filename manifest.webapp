@@ -1,0 +1,17 @@
+{
+  "name": "FirefoxOS",
+  "description": "My elevator pitch goes here",
+  "orientation": "landscape-primary",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/img/icon-512.png",
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Daniel Balla",
+    "url": "http://your-homepage-here.org"
+  },
+  "default_locale": "en",
+  "chrome": { "navigation": false },
+  "fullscreen": true
+}
